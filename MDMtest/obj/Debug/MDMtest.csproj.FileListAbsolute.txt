@@ -1,0 +1,14 @@
+D:\Projects\MDMtest\MDMtest\bin\Debug\MDMtest.exe.config
+D:\Projects\MDMtest\MDMtest\bin\Debug\MDMtest.exe
+D:\Projects\MDMtest\MDMtest\bin\Debug\MDMtest.pdb
+D:\Projects\MDMtest\MDMtest\bin\Debug\EntityFramework.dll
+D:\Projects\MDMtest\MDMtest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\MDMtest\MDMtest\bin\Debug\EntityFramework.xml
+D:\Projects\MDMtest\MDMtest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\MDMtest\MDMtest\obj\Debug\MDMtest.csprojResolveAssemblyReference.cache
+D:\Projects\MDMtest\MDMtest\obj\Debug\MDMtest.Properties.Resources.resources
+D:\Projects\MDMtest\MDMtest\obj\Debug\MDMtest.csproj.GenerateResource.Cache
+D:\Projects\MDMtest\MDMtest\obj\Debug\MDMtest.exe
+D:\Projects\MDMtest\MDMtest\obj\Debug\MDMtest.pdb
+D:\Projects\MDMtest\MDMtest\obj\Debug\MDMtest.FormMain.resources
+D:\Projects\MDMtest\MDMtest\obj\Debug\MDMtest.FormEditing.resources
